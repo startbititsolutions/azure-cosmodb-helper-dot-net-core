@@ -1,0 +1,17 @@
+E:\.net\Cosmo_Crud_package\Microsoft.Cosmo.Crud\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+E:\.net\Cosmo_Crud_package\Microsoft.Cosmo.Crud\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+E:\.net\Cosmo_Crud_package\Microsoft.Cosmo.Crud\bin\Debug\net6.0\msvcp140.dll
+E:\.net\Cosmo_Crud_package\Microsoft.Cosmo.Crud\bin\Debug\net6.0\vcruntime140.dll
+E:\.net\Cosmo_Crud_package\Microsoft.Cosmo.Crud\bin\Debug\net6.0\vcruntime140_1.dll
+E:\.net\Cosmo_Crud_package\Microsoft.Cosmo.Crud\bin\Debug\net6.0\Microsoft.Cosmo.Crud.deps.json
+E:\.net\Cosmo_Crud_package\Microsoft.Cosmo.Crud\bin\Debug\net6.0\Microsoft.Cosmo.Crud.dll
+E:\.net\Cosmo_Crud_package\Microsoft.Cosmo.Crud\bin\Debug\net6.0\Microsoft.Cosmo.Crud.pdb
+E:\.net\Cosmo_Crud_package\Microsoft.Cosmo.Crud\obj\Debug\net6.0\Microsoft.Cosmo.Crud.csproj.AssemblyReference.cache
+E:\.net\Cosmo_Crud_package\Microsoft.Cosmo.Crud\obj\Debug\net6.0\Microsoft.Cosmo.Crud.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Cosmo_Crud_package\Microsoft.Cosmo.Crud\obj\Debug\net6.0\Microsoft.Cosmo.Crud.AssemblyInfoInputs.cache
+E:\.net\Cosmo_Crud_package\Microsoft.Cosmo.Crud\obj\Debug\net6.0\Microsoft.Cosmo.Crud.AssemblyInfo.cs
+E:\.net\Cosmo_Crud_package\Microsoft.Cosmo.Crud\obj\Debug\net6.0\Microsoft.Cosmo.Crud.csproj.CoreCompileInputs.cache
+E:\.net\Cosmo_Crud_package\Microsoft.Cosmo.Crud\obj\Debug\net6.0\Microsoft.Cosmo.Crud.dll
+E:\.net\Cosmo_Crud_package\Microsoft.Cosmo.Crud\obj\Debug\net6.0\refint\Microsoft.Cosmo.Crud.dll
+E:\.net\Cosmo_Crud_package\Microsoft.Cosmo.Crud\obj\Debug\net6.0\Microsoft.Cosmo.Crud.pdb
+E:\.net\Cosmo_Crud_package\Microsoft.Cosmo.Crud\obj\Debug\net6.0\ref\Microsoft.Cosmo.Crud.dll

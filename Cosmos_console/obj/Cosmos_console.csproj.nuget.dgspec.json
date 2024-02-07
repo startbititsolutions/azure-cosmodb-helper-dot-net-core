@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\git\\anil\\azure-cosmodb-helper-dot-net-core\\Cosmos_console\\Cosmos_console.csproj": {}
+  },
+  "projects": {
+    "E:\\git\\anil\\azure-cosmodb-helper-dot-net-core\\Cosmos_console\\Cosmos_console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\git\\anil\\azure-cosmodb-helper-dot-net-core\\Cosmos_console\\Cosmos_console.csproj",
+        "projectName": "Cosmos_console",
+        "projectPath": "E:\\git\\anil\\azure-cosmodb-helper-dot-net-core\\Cosmos_console\\Cosmos_console.csproj",
+        "packagesPath": "C:\\Users\\Startbit\\.nuget\\packages\\",
+        "outputPath": "E:\\git\\anil\\azure-cosmodb-helper-dot-net-core\\Cosmos_console\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Startbit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\git\\anil\\onedrive-upload-dot-net\\onedrive-upload-dot-net\\onedrive-upload-dot-net\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\git\\anil\\azure-cosmodb-helper-dot-net-core\\Microsoft.Cosmo.Crud\\Microsoft.Cosmo.Crud.Helper.csproj": {
+                "projectPath": "E:\\git\\anil\\azure-cosmodb-helper-dot-net-core\\Microsoft.Cosmo.Crud\\Microsoft.Cosmo.Crud.Helper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\git\\anil\\azure-cosmodb-helper-dot-net-core\\Microsoft.Cosmo.Crud\\Microsoft.Cosmo.Crud.Helper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\git\\anil\\azure-cosmodb-helper-dot-net-core\\Microsoft.Cosmo.Crud\\Microsoft.Cosmo.Crud.Helper.csproj",
+        "projectName": "Microsoft.Cosmo.Crud.Helper",
+        "projectPath": "E:\\git\\anil\\azure-cosmodb-helper-dot-net-core\\Microsoft.Cosmo.Crud\\Microsoft.Cosmo.Crud.Helper.csproj",
+        "packagesPath": "C:\\Users\\Startbit\\.nuget\\packages\\",
+        "outputPath": "E:\\git\\anil\\azure-cosmodb-helper-dot-net-core\\Microsoft.Cosmo.Crud\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Startbit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\git\\anil\\onedrive-upload-dot-net\\onedrive-upload-dot-net\\onedrive-upload-dot-net\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.37.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
