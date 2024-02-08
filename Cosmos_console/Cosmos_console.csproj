@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Microsoft.Cosmo.Crud\Microsoft.Cosmo.Crud.Helper.csproj" />
+    <ProjectReference Include="..\Microsoft.Cosmo.Crud\Microsoft.Cosmo.CRUD.Helper.csproj" />
   </ItemGroup>
 
 </Project>

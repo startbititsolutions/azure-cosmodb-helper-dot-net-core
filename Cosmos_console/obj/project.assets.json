@@ -6272,8 +6272,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\git\\anil\\azure-cosmodb-helper-dot-net-core\\Microsoft.Cosmo.Crud\\Microsoft.Cosmo.Crud.Helper.csproj": {
-              "projectPath": "E:\\git\\anil\\azure-cosmodb-helper-dot-net-core\\Microsoft.Cosmo.Crud\\Microsoft.Cosmo.Crud.Helper.csproj"
+            "E:\\git\\anil\\azure-cosmodb-helper-dot-net-core\\Microsoft.Cosmo.Crud\\Microsoft.Cosmo.CRUD.Helper.csproj": {
+              "projectPath": "E:\\git\\anil\\azure-cosmodb-helper-dot-net-core\\Microsoft.Cosmo.Crud\\Microsoft.Cosmo.CRUD.Helper.csproj"
             }
           }
         }

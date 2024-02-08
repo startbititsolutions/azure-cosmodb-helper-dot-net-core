@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "D8tx9G7O87rBuYsQRLZlDY4WoyKeRXlAvsmLu2pFTaOPEKhk5xqtRALpRneH76mHlQSsLAby7ZybGB60gImZWQ==",
+  "dgSpecHash": "glnVbSmMFUQK4iVQ5XAVo/EH/mx//ChjOVd0rMDS9o3g+Ejs4mqBaRPixBM9STFmEPtCeoW1KgB7oHHMUGi2ZA==",
   "success": true,
   "projectFilePath": "E:\\git\\anil\\azure-cosmodb-helper-dot-net-core\\Cosmos_console\\Cosmos_console.csproj",
   "expectedPackageFiles": [
